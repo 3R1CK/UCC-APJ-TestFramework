@@ -1,0 +1,7 @@
+<suite name="UCC-APJ-Suite">
+	<test name= "MemberRegistration">
+	 <classes>
+	 	<class name="test_suite_UCC_APJ.MemberRegistration" />
+	 </classes>
+	</test>
+</suite>
